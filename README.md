@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **API Testing**
+- 🌱 I’m currently learning **𝐀𝐏𝐈 𝐓𝐞𝐬𝐭𝐢𝐧𝐠**
 
-- 💬 Ask me about **Selenium , Java , TestNG , Cucumber,etc.t**
+- 💬 Ask me about **𝑺𝒆𝒍𝒆𝒏𝒊𝒖𝒎 , 𝑱𝒂𝒗𝒂 , 𝑻𝒆𝒔𝒕𝑵𝑮 , 𝑪𝒖𝒄𝒖𝒎𝒃𝒆𝒓,𝒆𝒕𝒄.**
 
-- 📫 How to reach me **affsatheesh@gmail.com**
+- 📫 How to reach me **𝒂𝒇𝒇𝒔𝒂𝒕𝒉𝒆𝒆𝒔𝒉@𝒈𝒎𝒂𝒊𝒍.𝒄𝒐𝒎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -20,6 +20,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+[![Sarthak's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rishavchanda&&theme=xcode)](https://github.com/affsatheesh)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=affsatheesh&show_icons=true&locale=en&layout=compact" alt="affsatheesh" /></p>
 
